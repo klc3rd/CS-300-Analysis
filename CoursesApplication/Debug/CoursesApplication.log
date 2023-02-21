@@ -1,0 +1,13 @@
+﻿  CoursesApplication.cpp
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\CourseTable.hpp(72,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\CourseTable.hpp(130,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\CourseTable.hpp(140,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\CourseTable.hpp(242,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\CourseTable.hpp(257,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\CourseTable.hpp(264,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\FileLoader.hpp(267,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\FileLoader.hpp(278,43): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\FileLoader.hpp(303,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\FileLoader.hpp(314,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\klc3r\source\repos\CoursesApplication\CoursesApplication\CoursesApplication.cpp(63,35): warning C4018: '<': signed/unsigned mismatch
+  CoursesApplication.vcxproj -> C:\Users\klc3r\source\repos\CoursesApplication\Debug\CoursesApplication.exe
