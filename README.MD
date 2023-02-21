@@ -1,7 +1,5 @@
 Kenneth Cluck
 
-CS-300-T3307
-
 Module 8 Journal
 
 What the program needed to do was to store course data, input from a csv file and to sort the courses for output. While a seemingly straightforward issue, the difficulty is that for each course, the other courses need to be checked in order to validate that all prerequisites were included. At first it seems you could simply scan the file for each line. This however is cumbersome and slow, as the entire would have to be parsed for each course.
